@@ -102,7 +102,7 @@ Server will start on port 5000.
   * **Code:** 404 Not found <br />
     **Content:** `{"message": "User Not found."}`
 
-**Add project by Admin**
+**Add product by Admin**
 ----
   Add product by logged admin user.
 
@@ -135,9 +135,9 @@ Server will start on port 5000.
     "accessToken": "tosdfhsdfh"
 }`
 
-**Add projects in cart by user**
+**Add products in cart by user**
 ----
-  Add projects in cart by logged user role as user.
+  Add products in cart by logged user role as user.
 
 * **URL**
 
